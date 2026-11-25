@@ -35,3 +35,6 @@ Hızlı görev sözdizimi: `Rapor yaz yarın 14:00 !high #software` (`!low/!norm
 - `Sources/Orbit/Shared/` — uygulama ile widget'ın ortak kullandığı veri özeti
 - `Widget/` — WidgetKit uzantısı (build.sh ile `Orbit.app/Contents/PlugIns` içine derlenir)
 - `scripts/make_icon.swift` — uygulama ikonunu üretir
+
+## Lisans
+MIT — ayrıntılar için [LICENSE](LICENSE).
