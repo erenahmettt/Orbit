@@ -3,6 +3,14 @@
 SwiftUI + SwiftData ile yazılmış, tamamen yerel (local-first) bir macOS üretkenlik uygulaması.
 Uygulama boş başlar ve ilk açılışta karşılama ekranı gösterir. Veriler `~/Library/Application Support/Orbit/` altında saklanır; internet gerekmez, her değişiklik otomatik kaydedilir.
 
+## Ekran görüntüleri
+
+| Home | Projects |
+|---|---|
+| ![Home](docs/screenshots/home.webp) | ![Projects](docs/screenshots/projects.webp) |
+| **Journal** | **Focus (Pomodoro)** |
+| ![Journal](docs/screenshots/journal.webp) | ![Focus](docs/screenshots/focus.webp) |
+
 ## Çalıştırma
 
 ```bash
